@@ -7,6 +7,9 @@ h1 {
   font-size: 175%;
   margin: 60px
 }
+p {
+  margin: 0px 10px 10px 10px;
+}
 
 div {
   box-sizing: border-box;
@@ -15,7 +18,6 @@ div {
   background-color: #999999;
   border: 2px solid black;
   margin: 20px;
-  padding: 0px 10px 10px 10px;
 }
 .pad{
   height: 30px;
@@ -37,6 +39,7 @@ div {
 }
 #beef {
   background-color: #C14543;
+  color: white;
 }
 #sushi {
   background-color: #E5D198;
